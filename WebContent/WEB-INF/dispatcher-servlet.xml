@@ -62,7 +62,7 @@
 		 <property name="driverClassName" value="org.postgresql.Driver"/>
         <property name="url" value="jdbc:postgresql://cejusc:5432/conta"/>
         <property name="username" value="postgres"/>
-        <property name="password" value="jfpb"/>
+        <property name="password" value=""/>
 	</bean>
 
 	<!-- Configura a classe responsável por efetuar o controlle transacional do JPA para LocalContainerEntityManagerFactoryBean -->
